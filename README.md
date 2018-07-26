@@ -1,3 +1,9 @@
+# Download do PDF do livro Pense em Python 2ª Edição
+
+Link: https://github.com/davidkwast/PensePython2e/blob/master/PensePython2e.pdf
+
+## Informações
+
 Fork do projeto: https://github.com/PenseAllen/PensePython2e
 
 Conversão dos fontes em markdown para PDF. Pandoc somente consegue converter multiplos arquivos de uma vez em ambiente unix, ou seja, não há como executar em ambiente Windows.
@@ -8,7 +14,7 @@ PensePython2e/docs$ pandoc *.md > PensePython2e.html
 PensePython2e/docs$ pandoc PensePython2e.html -o PensePython2e.pdf
 ```
 
-# Pense em Python
+## Pense em Python
 
 <a href="https://novatec.com.br/livros/pense-em-python/"><img src="https://github.com/PenseAllen/PensePython2e/raw/master/img/Capa_PenseEmPython167x232.png" align="right" style="margin-left: 20px;"></a>
 
@@ -21,7 +27,7 @@ Este livro ensina programação para quem nunca programou, usando Python 3 nos e
 [Versão navegável em HTML](https://PenseAllen.github.io/PensePython2e/)
 
 
-## Créditos da edição brasileira
+### Créditos da edição brasileira
 
 Editor: Rubens Prates<br>
 Tradução: Sheila Gomes<br>
@@ -30,7 +36,7 @@ Editoração Eletrônica: Carolina Kuwabata<br>
 Assistente Editorial: Priscila A. Yoshimatsu
 
 
-## Proveniência
+### Proveniência
 
 Agradecemos a Rubens Prates da Editora Novatec por ter cedido gentilmente os arquivos com o texto integral e as figuras de [Pense em Python](https://novatec.com.br/livros/pense-em-python/), publicado sob licença da O'Reilly Media.
 
