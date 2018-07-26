@@ -11,7 +11,7 @@ Conversão dos fontes em markdown para PDF. Pandoc somente consegue converter mu
 ```
 PensePython2e/docs$ pandoc *.md > PensePython2e.html
 
-PensePython2e/docs$ pandoc PensePython2e.html -o PensePython2e.pdf
+PensePython2e/docs$ pandoc PensePython2e.html --latex-engine xelatex -o PensePython2e.pdf
 ```
 
 ## Pense em Python
